@@ -28,7 +28,7 @@ const SideBar: React.FC = () => {
       <section className="blurb">
         <h2>About</h2>
         <p>
-          Hi, I'm Siddharth. I am a <a href="https://www.cics.umass.edu/">UMass CICS</a>{' '}
+          Hi, I&apos;m Siddharth. I am a <a href="https://www.cics.umass.edu/">UMass CICS</a>{' '}
           graduate, and a software engineer at{' '}
           <a href="https://walmartconnect.com">Walmart Global Tech</a>. Previously, I was a Senior
           Software Engineer at <a href="https://goldmansachs.com">Goldman Sachs</a>.
