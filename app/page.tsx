@@ -6,7 +6,8 @@ import Link from 'next/link';
 import PageWrapper from './components/PageWrapper';
 
 export const metadata: Metadata = {
-  description: 'Siddharth Goel is a data scientist, big data engineer, and backend engineer.',
+  description:
+    "Siddharth Goel is a big data engineer, backend engineer and vibe-coding enthusiast",
 };
 
 export default function HomePage() {
@@ -33,7 +34,7 @@ export default function HomePage() {
         </p>
         <p>
           {' '}
-          Source available <a href="https://github.com/mldangelo/personal-site">here</a>.
+          Source available <a href="https://github.com/glsddhrth/personal-site">here</a>.
         </p>
       </article>
     </PageWrapper>

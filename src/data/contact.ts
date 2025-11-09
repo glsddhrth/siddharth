@@ -4,7 +4,6 @@ import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
-import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 export interface ContactItem {
@@ -15,22 +14,22 @@ export interface ContactItem {
 
 const data: ContactItem[] = [
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://github.com/glsddhrth',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://facebook.com/d',
+    link: 'https://facebook.com/siddharth.goel3',
     label: 'Facebook',
     icon: faFacebookF,
   },
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
+    link: 'https://www.instagram.com/sigoel7/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/sidgoel7',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
@@ -40,12 +39,7 @@ const data: ContactItem[] = [
     icon: faAngellist,
   },
   {
-    link: 'https://twitter.com/dangelosaurus',
-    label: 'Twitter',
-    icon: faTwitter,
-  },
-  {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:siddharth.goel7@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

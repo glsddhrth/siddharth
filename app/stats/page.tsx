@@ -10,7 +10,7 @@ import PageWrapper from '../components/PageWrapper';
 
 export const metadata: Metadata = {
   title: 'Stats',
-  description: 'Some statistics about Siddharth Goel and glsddhrth.github.io',
+  description: "Some statistics about Siddharth Goel and glsddhrth.github.io",
 };
 
 export default function StatsPage() {
