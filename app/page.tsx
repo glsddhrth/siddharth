@@ -17,12 +17,8 @@ export default function HomePage() {
         <header>
           <div className="title">
             <h2>
-              <Link href="/about">About this site</Link>
+              <Link href="/about">Hey there!</Link>
             </h2>
-            <p>
-              A beautiful, responsive, statically-generated, react application written with modern
-              Javascript.
-            </p>
           </div>
         </header>
         <p>
