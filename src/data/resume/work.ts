@@ -34,7 +34,7 @@ const work: Position[] = [
     summary: `Worked in the Compliance Big Data Engineering team to develop high performance data pipelines which detect exceptions in market trading data`,
     highlights: [
       'Was responsible for performance improvement of the GS Cross Trade tool. Reduced trade submission times from 2 minutes to 10 seconds per transaction by using distributed processing techniques',
-      'Architected and developed the team\'s core data product pipeline'
+      "Architected and developed the team's core data product pipeline"
     ],
   },
   {
