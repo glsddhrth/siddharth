@@ -24,7 +24,7 @@ const data: ContactItem[] = [
     icon: faFacebookF,
   },
   {
-    link: 'https://www.instagram.com/sigoel7/',
+    link: 'https://www.instagram.com/sidgoel7/',
     label: 'Instagram',
     icon: faInstagram,
   },
@@ -32,11 +32,6 @@ const data: ContactItem[] = [
     link: 'https://www.linkedin.com/in/sidgoel7',
     label: 'LinkedIn',
     icon: faLinkedinIn,
-  },
-  {
-    link: 'https://angel.co/michael-d-angelo',
-    label: 'Angel List',
-    icon: faAngellist,
   },
   {
     link: 'mailto:siddharth.goel7@gmail.com',
