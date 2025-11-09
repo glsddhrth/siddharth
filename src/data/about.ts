@@ -1,93 +1,64 @@
 export const aboutMarkdown = `# Intro
 
-I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), where we're building open-source tools to evaluate, find, and fix vulnerabilities in LLMs. Before Promptfoo, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of tools that have helped over 170 million people in Africa gain access to financial services. I also co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com).
+I am a Software Engineer at [Walmart Global Tech](https://www.walmartconnect.com/), working on the AdTech Measurement and Reporting Team at Walmart Connect Ad Center. I specialize in building high-performance data pipelines and backend systems that process massive amounts of advertising and analytics data.
 
-In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
+Before Walmart, I was a Senior Software Engineer at [Goldman Sachs](https://www.goldmansachs.com/), where I worked on Compliance Big Data Engineering, developing pipelines that detect exceptions in market trading data. I've also had the opportunity to work with amazing teams at [Meta](https://www.meta.com/), [Bytedance](https://www.bytedance.com/), [IBM](https://www.ibm.com/), and [Thales](https://www.thalesgroup.com/).
 
-# Some History
+I'm passionate about distributed systems, big data processing, and building scalable backend infrastructure. When I'm not debugging production issues or optimizing queries, I enjoy exploring new technologies and contributing to open-source projects. Feel free to reach out if you'd like to chat about tech, collaborate on a project, or just connect!
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand-new Packard Bell. It took years for me to send my first email.
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it, and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without my parents' permission). Over the next few years, I built several more, including one of the first audio modulated coils and one of the first DRSSTCs.
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-- 14 - 17, I played a lot of video games. My favorites included Counter-Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
-- At 18, in the summer before college, my friends and I started playing [Muggle Quidditch](<https://en.wikipedia.org/wiki/Quidditch_(sport)>). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association), including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on Facebook.
-- At 19, I took my first graduate course and published my first academic paper.
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
+# Career Journey
 
-Ask me in person for other stories that I'm afraid to share with the internet.
+- Started my professional journey at [Guavus Network Systems](https://www.thalesgroup.com/) (now part of Thales), working on big data analytics for telecom operators
+- Developed micro-applications analyzing LTE data to improve customer experience and detect network anomalies
+- Built a real-time streaming service processing Kafka data with < 0.5s latency for IP and mobile number mappings
+- Interned at [Bytedance](https://www.bytedance.com/) working on their Offline Inference Framework, improving ingestion performance by 10%
+- Contributed to the open-source [Ray project](https://github.com/ray-project/ray/pull/22486), adding support for snappy compressed files
+- Spent a summer at [Meta](https://www.meta.com/) building Hargow - a fast CLI tool in Rust for executing complex workloads in production
+- Researched at [IBM](https://www.ibm.com/) on polymer representations and property prediction tasks, improving accuracy by 5%
+- Joined [Goldman Sachs](https://www.goldmansachs.com/) as a Senior Software Engineer, reduced trade submission times from 2 minutes to 10 seconds using distributed processing
+- Now at [Walmart Global Tech](https://www.walmartconnect.com/), building the Path to Conversion Unified Report and developing GenAI solutions for measurement and reporting
 
-# I Like
+# Technologies & Tools
 
-- Running
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+- **Languages**: Rust, Python, Java, Scala, SQL
+- **Big Data**: Apache Spark, Kafka, Ray, Hadoop ecosystem
+- **Databases**: Redis, PostgreSQL, MongoDB, BigQuery
+- **Cloud & Infrastructure**: AWS, GCP, Docker, Kubernetes
+- **Other Tools**: Git, CI/CD, distributed systems, microservices
 
-# Travel / Geography
+# Interests
 
-- I am originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York City.
-- I've been to approximately 50 countries, some of which I have forgotten, many of which I would like to revisit.
-- In 2016, I visited Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited Canada, England, France, and Switzerland.
-- In 2020, I traveled barely 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I continued remodeling an apartment.
-- In 2022, I switched jobs and visited the UK, France, Greece, Belgium, Luxembourg, Germany, and Kenya.
-- In 2023, I visited France, the UK, Ireland, and Rwanda.
-- I am an Oregon Trail II enthusiast.
+- Building high-performance distributed systems
+- Open-source contributions
+- System design and architecture
+- Performance optimization
+- Machine Learning and AI applications
+- Backend engineering best practices
 
-# Fun Facts
+# Education & Background
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a skateboard or [bicycle](https://www.citibikenyc.com/) every single day.
-- I stack-rank coffee shops, restaurants, and every dog I see in New York.
-- I added this page because many people complained that my site was just my resume.
+- Graduated from [UMass CICS](https://www.cics.umass.edu/) (University of Massachusetts Amherst, College of Information and Computer Sciences)
+- Background in computer science, big data, and distributed systems
+- Continuous learner - always exploring new technologies and frameworks
 
-# I Dream Of
+# Notable Projects
 
-- Inspiring and feeling inspired.
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
-- Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving.
-- You not checking the commit history for earlier drafts of this file.
+- **Hargow CLI Tool** - Built a fast command-line tool in Rust for executing complex workloads in production environments at Meta
+- **GS Cross Trade Performance** - Reduced trade submission times from 2 minutes to 10 seconds using distributed processing techniques
+- **Path to Conversion Report** - Scaled unified reporting system for Walmart's AdTech platform
+- **Tethering Detection** - Designed a solution using deep packet inspection to identify tethered devices in cellular networks
+- **Ray Contribution** - Added support for snappy compressed file decompression to the open-source Ray project
 
-# Websites from People I Admire
+# Goals & Philosophy
 
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Ed Kearney](https://edkearney.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Judy Suh](https://www.judysuh.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com/)
+- Build scalable, reliable systems that make a real impact
+- Write clean, maintainable code that others can easily understand
+- Stay curious and keep learning new technologies
+- Share knowledge with the community
+- Collaborate with talented engineers and learn from diverse perspectives
+- Balance technical excellence with pragmatic solutions
 
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you.
+# Let's Connect!
+
+Interested in discussing tech, potential collaborations, or just want to chat? Feel free to reach out via email or connect with me on social media. I'm always open to interesting conversations about distributed systems, big data, or the latest developments in backend engineering.
 `;
