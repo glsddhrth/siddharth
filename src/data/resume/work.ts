@@ -42,7 +42,7 @@ const work: Position[] = [
       'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
       'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
       'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
+      "Architected and developed the team's core data product pipeline",
     ],
   },
   {
