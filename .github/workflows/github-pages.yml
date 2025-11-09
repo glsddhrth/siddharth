@@ -40,9 +40,7 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        with:
-          # Automatically inject basePath in Next.js config
-          static_site_generator: next
+        # Removed static_site_generator: next to avoid conflicts with manual basePath
 
       - name: Cache dependencies
         uses: actions/cache@v4
