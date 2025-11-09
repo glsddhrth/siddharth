@@ -6,8 +6,7 @@ import Link from 'next/link';
 import PageWrapper from './components/PageWrapper';
 
 export const metadata: Metadata = {
-  description:
-    "Michael D'Angelo is a data scientist, machine learning engineer, and full-stack engineer.",
+  description: 'Siddharth Goel is a data scientist, big data engineer, and backend engineer.',
 };
 
 export default function HomePage() {
