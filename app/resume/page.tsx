@@ -15,7 +15,7 @@ import work from '@/data/resume/work';
 export const metadata: Metadata = {
   title: 'Resume',
   description:
-    "Michael D'Angelo's Resume. Arthena, Matroid, YC, Skeptical Investments, Stanford ICME, Planet, and Facebook.",
+    "Siddharth Goel's Resume. Walmart, Goldman Sachs, IBM, Meta, Bytedance, UMass Amherst, Guavus",
 };
 
 const sections = [
