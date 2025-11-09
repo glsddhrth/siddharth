@@ -31,8 +31,8 @@ export const metadata: Metadata = {
   keywords: [
     'Siddharth Goel',
     'data scientist',
-    'machine learning',
-    'full-stack developer',
+    'big data engineer',
+    'software developer',
     'engineer',
     'portfolio',
   ],
