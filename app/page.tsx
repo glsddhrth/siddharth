@@ -6,8 +6,7 @@ import Link from 'next/link';
 import PageWrapper from './components/PageWrapper';
 
 export const metadata: Metadata = {
-  description:
-    "Siddharth Goel is a big data engineer, backend engineer and vibe-coding enthusiast",
+  description: 'Siddharth Goel is a big data engineer, backend engineer and vibe-coding enthusiast.',
 };
 
 export default function HomePage() {
